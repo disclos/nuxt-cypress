@@ -6,7 +6,7 @@
     "cover": "nyc report --reporter=lcov"
   },
   "dependencies": {
-    "nuxt": "^2.9.2"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
